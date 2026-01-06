@@ -107,9 +107,9 @@
 ---
 
 - [Next Steps and Conclusion]()
-  - [DevOps and Deployment](./13devops.md)
-  - [What's Next](./13next.md)
-  - [Wrap Up](./13wrapup.md)  
+  - [DevOps and Deployment]()
+  - [What's Next]()
+  - [Wrap Up]()  
 
 ---
 
