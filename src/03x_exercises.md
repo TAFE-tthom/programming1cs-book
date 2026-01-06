@@ -67,7 +67,7 @@ Construct a program that will accept 3 command line arguments in the form of `st
 To demonstrate how this works.
 
 ```
-node generate.js 6 30 3
+dotnet run 6 30 3
 6
 9
 12
@@ -84,16 +84,16 @@ For every iteration, `3` was added to the current counter.
 
 ### 4. Roller Coaster
 
-This program requires you to implement a function called `checkHeight`. Firstly, construct a file called `rollercoaster.js`, afterwards define the following function:
+This program requires you to implement a method called `CheckHeight`. Firstly, construct a file called `RollerCoaster`, afterwards define the following method:
 
 ```cs
-static bool CheckHeight(height, threshold) {
+static bool CheckHeight(int height, int threshold) {
 
   return 0;
 }
 ```
 
-You will need to implement `checkHeight` to do the following. Given that the function has two parameters `height` and `threshold`, your function is to check to see if the height matches or exceeds the threshold.
+You will need to implement `CheckHeight` to do the following. Given that the function has two parameters `height` and `threshold`, your function is to check to see if the height matches or exceeds the threshold.
 
 Consider the following usage, the heights are and threshold are assumed to be integers that correlate to centimetres:
 
