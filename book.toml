@@ -2,3 +2,11 @@
 title = "Programming 1 - C#"
 authors = ["ahto"]
 language = "en"
+
+[output.html]
+site-url='/programming1cs-book/'
+additional-js = ["js/highlightjs-line-numbers.js"]
+mathjax-support = true
+
+[output.html.playground]
+line-numbers = true
