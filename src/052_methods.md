@@ -1,6 +1,6 @@
-# Methods, Static Methods and Inheritance
+# Static Methods and Inheritance
 
-To clarify from the previous section, we demonstrated a particular kind of **methods**. This kind of **method** was an instance method is has access to the **instance** via `this`.
+To clarify from the previous chapter, we demonstrated a particular kind of **method**([5.1](./041_classes.md)). This kind of **method** was an instance method and has access to the **instance** via `this`.
 
 Inheritance with classes is integrated and bound with methods. It allows for redefinition and crafting more bespoke methods for the type but adhering to a generalised signature and having the ability to reuse logic.
 

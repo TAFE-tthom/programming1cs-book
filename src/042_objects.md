@@ -30,8 +30,6 @@ You can update the fields of `obj` afterwards but you cannot add new fields to t
 
 It has been discussed that both **Arrays** and **Objects** are reference types. As outlined in **Index Calcuation**, Arrays are assigned to a memory address, Objects are also assigned to a similar value or modelled as such.
 
-> **Author's note**: It is reasonable to assume that how objects and classes are modelled are offset calculations from a base address. However, in reality, objects are implemented similarly to HashMaps.
-
 A powerful feature with objects is that we can nest objects inside objects.
 
 ### Indirection
