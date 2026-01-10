@@ -18,7 +18,7 @@
   - [Commands and Processes](./012_processes.md)
   - [Terminal Shortcuts](./012shortcuts.md)
   - [DotNet](./013_dotnet.md)
-  - [NuGet]()
+  - [NuGet](./14_nuget.md)
   - [Version Control](./014_git.md)
   - [Review](./01t_review.md)
 
@@ -56,10 +56,10 @@
   - [Static Methods](./052_methods.md)
   - [Interfaces and Abstract Classes](./053_interfaces.md)
   - [Exceptions and Handling](./055_exceptions.md)
-  - [Namespaces and Code Organisation]()
+  - [Namespaces and Code Organisation](./56namespaces.md)
   - [Exercises](./05exercises.md)
   - [Review](./05review.md)
-  - [Supplementary - Structs and Partial Classes]()
+  - [Supplementary - Structs and Partial Classes](./5xstructs.md)
 
 - [Callbacks and Delegates](./06_cbs_io.md)
   - [Callbacks and Delegates]()
