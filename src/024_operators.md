@@ -110,9 +110,9 @@ The follow below in which you can use the reference from MDN (Mozilla Developer 
 * `>` - Greater than symbol, example: `10 > 5` would return `true`
 * `>=` - Greater than or equal to symbol
 * `<=` - Less than or equal to symbol
-* `==` and `===` - Equality symbol, checks to see if two objects are the same, additional equal is ensuring type equality
+* `==` - Equality symbol, checks to see if two objects are the same, additional equal is ensuring type equality
 
-* `!=` and `!==` - Inequality symbol, checks to see if two objects are not the same.
+* `!=` - Inequality symbol, checks to see if two objects are not the same.
 
 ## Printing and Interpreting data
 
