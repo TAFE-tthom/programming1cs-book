@@ -62,9 +62,8 @@
   - [Supplementary - Structs and Partial Classes](./5xstructs.md)
 
 - [Callbacks and Delegates](./06_cbs_io.md)
-  - [Callbacks and Delegates]()
-  - [Func and Action Types]()
-  - [Lambda Operator, Fluent and Linq]()
+  - [Callbacks, Delegates and Lambda Operator](./06callbacks.md)
+  - [Func and Action Types](./06funcs.md)
   - [Exercises](./06exercises.md)
   - [Review](./06review.md)
 
@@ -81,28 +80,26 @@
 
 - [QA, Testing, Debugging and Documentation](./08_software_qa.md)
   - [Testing Types](./08_test_types.md)
-  - [xUnit]()
-  - [Documentation]()
+  - [xUnit](./08xunit.md)
+  - [Documentation](./08documentation.md)
   - [Internals](./08internals.md)
   - [Review](08review.md)
 
 ---
 
-- [Client-side Desktop Development]()
-  - [Creating a project]()
-  - [Defining UI with XAML]()
-  - [Standard Controls and Custom Controls]()
-  - [Data Bindings and Templates]()
-  - [Styling and Resources]()
-  - [Exercises]()
-  - [Review]()
+- [Client-side Desktop Development](./09clientside.md)
+  - [Templates and Setup](./09setup.md)
+  - [UI Controls and Input](./09controls.md)
+  - [Styling and Resources](./09styling.md)
+  - [Exercises](./09exercises.md)
+  - [Review](09review.md)
 
-- [Server-side Web Development]()
-  - [HTTP Protocol and Utilities]()
-  - [Server-side Rendering and ASP.NET]()
-  - [Persistent Data Storage and ADO.NET]()
-  - [Exercises]()
-  - [Review]()
+- [Server-side Web Development](./10serverside.md)
+  - [HTTP Protocol and Utilities](./10http.md)
+  - [Server-side Rendering and ASP.NET](./10rendering.md)
+  - [Persistent Data Storage and ADO.NET](./10databases.md)
+  - [Exercises](./10exercises.md)
+  - [Review](./10review.md)
 
 ---
 
