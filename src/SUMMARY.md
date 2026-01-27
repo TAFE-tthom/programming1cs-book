@@ -95,7 +95,6 @@
   - [Review](09review.md)
 
 - [Server-side Web Development](./10serverside.md)
-  - [HTTP Protocol and Utilities](./10http.md)
   - [Server-side Rendering and ASP.NET](./10rendering.md)
   - [Persistent Data Storage and ADO.NET](./10databases.md)
   - [Exercises](./10exercises.md)
